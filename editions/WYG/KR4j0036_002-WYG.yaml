@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4j0036/WYG/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 跋徳莊名噪乾淳間官至朝請大夫直寶文閣知建寧府軍府事賜紫金魚袋恩遇甚隆而度量宏博常戒趙忠定公曰謹勿以一魁先置胸中可想見其大槩矣余家舊藏介庵詞一巻板甚精良惜未得其佳集又有文寳雅詞四巻中誤入孫夫人咏雪詞又曽見琹趣外篇六巻章次顛倒舊作頗多不能悉舉至如席上贈人清平樂昔人稱為集中之冦反逸去可恨坊本之亂真也湖南毛晉識
+  hash: sha256:6bf2349529991e82bcd9658ebdb4adfd4fc20d77128a6317636315d71df01f1c
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4j0036_WYG_002-1a, image: WYG1488/WYG1488-0083c.png}
+metadata:
+  title: 介菴詞
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:48:04.025914'
+  juan_title: 跋
+  source:
+    repository: kanripo
+    path: KR4j0036/KR4j0036_002.txt
+hash: sha256:d8c31df955552ac64333cb0c681bd80ba3f77d06b801ff72484d190ae5804648

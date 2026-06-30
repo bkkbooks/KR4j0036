@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4j0036/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部十
+  hash: sha256:d860f9d2382c1e9bc3c39d366c670d170c860166a0919e841ef45644dcf23afb
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4j0036_WYG_000-1a, image: WYG1488/WYG1488-0061a.png}
+body:
+  text: 介菴詞詞曲類一詞集之屬提要臣等謹案介菴詞一巻宋趙彦端撰彦端字徳莊號介菴魏王廷美七世孫乾道淳熙間以直寶文閣知建寧府終左司郎官宋史藝文志彦端有介菴集十巻外集三巻又有介菴詞四巻馬端臨經籍考則僅稱介菴詞一巻此本為毛晉所刻亦止一巻與通考合然據其巻後跋語似又舊刻散佚僅存此一巻者未之詳也彦端嘗賦西湖謁金門有波底斜陽紅濕之句為髙宗所喜有我家裡人也會作此等語之稱其他篇亦多婉約纖穠不愧作者集末鷓鴣天十闋乃為京口角妓蕭秀蕭瑩歐懿桑雅劉雅歐倩文秀王婉楊蘭吳玉九人而作詞格凡猥皆無足取且連名入之集中殆于北里之志殊􅆾雅音葢唐宋以来士大夫不禁狎斜之遊彦端是作葢亦移于習俗存而不論可矣乾隆四十六年十月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:56e64f00bbe47d9e99dc5d4d74b063013bc861d6b2d6ad034e2429a2ab25092b
+metadata:
+  title: 介菴詞
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:48:04.025914'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4j0036/KR4j0036_000.txt
+hash: sha256:ecb094262f72e20bb1eef74f86976b116629f91ff387353cc584904bd552fb69
